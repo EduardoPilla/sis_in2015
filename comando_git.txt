@@ -1,5 +1,4 @@
 git pull 				-> atualizar repositorio
 git add arquivo 			-> marcar arquivo para envio
 git commit -m "Descrição do commit"
-git merge
 git push
