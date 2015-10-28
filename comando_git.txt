@@ -2,3 +2,9 @@ git pull 				-> atualizar repositorio
 git add arquivo 			-> marcar arquivo para envio
 git commit -m "Descrição do commit"
 git push
+
+caso tenha conflito no windows utilizar a ferramenta winmerge para o linux o meld 
+git mergetool
+
+para atualizar a branch atual
+git merge --no-ff brachOrigem
