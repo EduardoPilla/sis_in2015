@@ -3,8 +3,13 @@ git add arquivo 			-> marcar arquivo para envio
 git commit -m "Descrição do commit"
 git push
 
+<<<<<<< HEAD
 caso tenha conflito no windows utilizar a ferramenta winmerge para o linux o meld 
 git mergetool
 
 para atualizar a branch atual
 git merge --no-ff brachOrigem
+=======
+
+dfdsiufsdutfudsytfyusdtfuyesbfi dyfusy dfuidsy ufidsyui
+>>>>>>> f923d6bfd1165dd6f42d319378332dff3192049e
